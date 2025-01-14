@@ -8,4 +8,4 @@
  4. Abrir el proyecto en: ```localhost:3000```
 
 
- Clase de Fernando Herrera 14/01/2025 Vamos juan tu puedes vamos por todo eso que quieres!!
+ Clase de Fernando Herrera 14/01/2025 Vamos juan tu puedes vamos por todo eso que quieres!! PRGF
